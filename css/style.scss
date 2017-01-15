@@ -214,6 +214,12 @@ h1, h2, h3, h4 {
   transition: color 0.2s linear;
 }
 
+@media only screen and (min-width: 60.063em) {
+  .icon-text-boxed img {
+    width: 60%;
+  }
+}
+
 .icon-text-boxed:hover i {
   background: $dark-hover;
   color: white;
