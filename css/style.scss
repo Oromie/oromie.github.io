@@ -509,8 +509,6 @@ ul.gallery li a .overlay {
   opacity: 0;
   position: absolute;
   top: 0;
-  padding-top: 15%;
-  vertical-align: bottom;
   text-align: left;
   background: rgba(0, 0, 0, 0.5);
   width: 100%;
@@ -531,7 +529,7 @@ ul.gallery li a p {
   font-style: italic;
   text-align: left;
   padding-left: 10px;
-  padding-top: 110px;
+  padding-top: 10px;
 }
 ul.gallery li a:hover .overlay {
   opacity: 1;
