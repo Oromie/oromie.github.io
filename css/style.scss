@@ -509,8 +509,9 @@ ul.gallery li a .overlay {
   opacity: 0;
   position: absolute;
   top: 0;
-  padding-top: 25%;
-  text-align: center;
+  padding-top: 15%;
+  vertical-align: bottom;
+  text-align: left;
   background: rgba(0, 0, 0, 0.5);
   width: 100%;
   height: 100%;
