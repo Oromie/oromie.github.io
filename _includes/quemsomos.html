@@ -33,12 +33,12 @@
         <div class='member-intro {{active_class}}' id='member-{{forloop.index}}'>
           <div class='member medium-3 large-3 columns {{active_class}}' data-target='#member-{{forloop.index}}'>
             <img src='{{ site.url }}images/{{ member.image }}'>
-            <h3>{{member.name}}</h3>
-            <p class='position'>{{member.position}}</p>
+            <h3 style='margin-left: 15px;'>{{member.name}}</h3>
+            <p class='position' style='margin-left: 15px;'>{{member.position}}</p>
             <p class='active-line'></p>
           </div>
           <div class='medium-9 large-9 columns' style='padding-top:20px;'>
-            <p style='text-align: justify;'>{{member.desc}}</p>
+            <p style='text-align: justify; margin-left: 15px; margin-right: 15px;'>{{member.desc}}</p>
           <div class='socials'>
             <p style='text-align: right;'>
             {% for social in member.socials %}
