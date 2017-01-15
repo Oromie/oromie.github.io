@@ -1,0 +1,31 @@
+- image: 1_mari10_cropped.jpg
+  desc_location: left
+  desc:
+    <!--h2>&nbsp;</h2>
+    <p class="slidesp">Alma que emana pelos poros</p>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Conheça nossa coleção</a-->
+- image: '2_2015-12-01 15.08.33_cropped.jpg'
+  desc_location: right
+  desc:
+- image: 4_IMG_9733_cropped.jpg
+  desc_location: left
+  desc:
+- image: '5_2016-11-04 16.07.10_cropped.jpg'
+  desc_location: right
+  desc:
+- image: '6_2015-12-01 15.17.13_cropped.jpg'
+  desc_location: center
+  desc:
+- image: 7_IMG_9690_cropped.jpg
+  desc_location: left
+  desc:
+- image: '8_2015-12-01 15.22.51_cropped.jpg'
+  desc_location: right
+  desc:
+- image: 9_IMG_9747_cropped.jpg
+  desc_location: left
+  desc:
+- image: 10_IMG_9801_cropped.jpg
+  desc_location: right
+  desc:
