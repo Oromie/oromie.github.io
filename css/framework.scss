@@ -3776,7 +3776,7 @@ kbd {
 
 .touch .orbit-container .orbit-prev,
 .touch .orbit-container .orbit-next {
-  width:0.2rem
+  width:0.2rem;
   /*display: none;*/
 }
 .touch .orbit-bullets {
@@ -3811,7 +3811,7 @@ kbd {
     display: none;
   }
   .orbit-stack-on-small .orbit-next, .orbit-stack-on-small .orbit-prev {
-    width:0.2rem
+    width:0.2rem;
     /*display: none;*/
   }
   .orbit-stack-on-small .orbit-bullets {
