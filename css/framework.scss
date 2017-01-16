@@ -3776,10 +3776,12 @@ kbd {
 
 .touch .orbit-container .orbit-prev,
 .touch .orbit-container .orbit-next {
-  display: none;
+  width:0.2rem
+  /*display: none;*/
 }
 .touch .orbit-bullets {
-  display: none;
+  width:0.2rem
+  /*display: none;*/
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -3810,10 +3812,12 @@ kbd {
     display: none;
   }
   .orbit-stack-on-small .orbit-next, .orbit-stack-on-small .orbit-prev {
-    display: none;
+    width:0.2rem
+    /*display: none;*/
   }
   .orbit-stack-on-small .orbit-bullets {
-    display: none;
+    width:0.2rem
+    /*display: none;*/
   }
 }
 ul.pagination {
