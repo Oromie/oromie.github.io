@@ -3781,7 +3781,7 @@ kbd {
 }
 .touch .orbit-bullets {
   width:0.2rem
-  /*display: none;*/
+  display: none;
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -3817,7 +3817,7 @@ kbd {
   }
   .orbit-stack-on-small .orbit-bullets {
     width:0.2rem
-    /*display: none;*/
+    display: none;
   }
 }
 ul.pagination {
