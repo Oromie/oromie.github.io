@@ -1,0 +1,4 @@
+fonts: ['//fonts.googleapis.com/css?family=Titillium+Web:300,400,600'],
+cookieExp: 0,
+delay: 0,
+showOnDelay: true,
