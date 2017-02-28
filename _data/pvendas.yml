@@ -34,7 +34,7 @@
           color: yellow
     - title: Loja Online 
       icon: logo_thumbnail.png
-      desc: <a link=http://oromie.iluria.com/>http://oromie.iluria.com/</a>
+      desc: <a href='http://oromie.iluria.com/' target='_blank'>http://oromie.iluria.com/</a>
         
       color:
       display:
