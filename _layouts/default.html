@@ -65,9 +65,14 @@
                   </li>
                 {% else %}
                   <li class="{{active_class}}">
+                      {% if item.js %}
+                      <a target="{{ item.target }}" onclick='{{ item.js }}'>{{ item.name }}</a>
+                      {% else %}
                       <a href="{{ item.path }}" target="{{ item.target }}">{{ item.name }}</a>
+                      {% endif %}
                   </li>
                 {% endif %}
+
               {% endfor %}
             </ul>
           </section>

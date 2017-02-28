@@ -24,4 +24,9 @@
 - name: Fale conosco
   path: '#faleconosco'
   section_id: blog
+  target:
+- name: Cadastre-se
+  path: ''
+  section_id: newsletter
   target: 
+  js: "bioEp.addPopup(); bioEp.loadEvents(); bioEp.showPopup();bioEp.shown=false;"
